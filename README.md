@@ -6,6 +6,7 @@ Here is a (non-exhaustive) list of things I know/can do:
 - Java
 - C (and programming in POSIX environments)
 - SQL and database design
+- HTML/CSS
 - Javascript (both front-end and back-end)
 - x86 assembly
 - Pentesting web applications
