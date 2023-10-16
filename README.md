@@ -10,4 +10,5 @@ Here is a (non-exhaustive) list of (computer related) things I know/can do:
 - Javascript (both front-end and back-end)
 - x86 assembly
 - Pentesting web applications
+
 I use Arch btw
