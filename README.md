@@ -1,5 +1,5 @@
 ## About Me 🐲
-Welcome! I am a 20-something years old CS student living somewhere on Earth. I enjoy cybersec mostly.
+Welcome! I am a 20-something years old CS student living somewhere on Earth. I enjoy computers, math, metal, powerlifting and reptiles (both extant and extinct).
 Here is a (non-exhaustive) list of (computer related) things I know/can do:
 - LaTex
 - Python
